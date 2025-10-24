@@ -6,10 +6,7 @@ I am a researcher and software engineer with a Ph.D. in Computer Science, focuse
 - Mathematical programming (MIP, LP, QP) and model formulation
 - Solver interfacing & tuning (Gurobi, CPLEX, GAMS)
 - Algorithm design: exact methods, heuristics, and hybrid approaches
-- High-performance implementations in C/C++ (profiling, memory and cache-aware code)
 - Python tooling for prototyping, benchmarking, and reproducibility
-- Software engineering for research: testing, CI, and documentation
-
 
 ## Collaboration
 Open to research collaborations.
