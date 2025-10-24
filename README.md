@@ -1,4 +1,4 @@
-# exp684 — Ph.D. in Computer Science
+# Ph.D. in Computer Science
 
 I am a researcher and software engineer with a Ph.D. in Computer Science, focused on high-performance algorithm design and mathematical optimization. I build reliable, scalable optimization software and production-ready systems using C, C++, Python, and Java, and I routinely model and solve complex decision problems with industry-grade solvers such as Gurobi, CPLEX, and GAMS.
 
