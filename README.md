@@ -6,7 +6,7 @@ I am a researcher and software engineer with a Ph.D. in Computer Science, focuse
 - Mathematical programming (MIP, LP, QP) and model formulation
 - Solver interfacing & tuning (Gurobi, CPLEX, GAMS)
 - Algorithm design: exact methods, heuristics, and hybrid approaches
-- Python tooling for prototyping, benchmarking, and reproducibility
+- Python for Reinforcement Learning and Deep Learning. 
 
 ## Collaboration
-Open to research collaborations.
+Open to research collaborations, please contact me (email: ivpenaarenas@gmail.com).
