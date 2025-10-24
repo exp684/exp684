@@ -9,6 +9,6 @@ I am a researcher and software engineer with a Ph.D. in Computer Science, focuse
 - Python for Reinforcement Learning and Deep Learning. 
 
 ## Collaboration
-Open to research collaborations, please contact me ([![Email](https://img.shields.io/badge/Email-333333?style=flat&logo=minutemailer&logoColor=white)](mailto:ivpenaarenas@gmail.com)).
+Open to research collaborations, please contact me [![Email](https://img.shields.io/badge/Email-333333?style=flat&logo=minutemailer&logoColor=white)](mailto:ivpenaarenas@gmail.com).
 
 
