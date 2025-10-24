@@ -11,7 +11,5 @@ I am a researcher and software engineer with a Ph.D. in Computer Science, focuse
 - Software engineering for research: testing, CI, and documentation
 
 
-## Collaboration & consulting
-Open to research collaborations, consulting on optimization models and solver tuning, code reviews for performance-sensitive systems, and co-supervision of graduate projects.
-
-To discuss collaborations, please contact me (see links below).
+## Collaboration
+Open to research collaborations.
