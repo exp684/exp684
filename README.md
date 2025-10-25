@@ -9,6 +9,9 @@ I am a researcher with a Ph.D. in Computer Science, focused on high-performance 
 - Python for Reinforcement Learning and Deep Learning. 
 
 ## Collaboration
-Open to research collaborations, please contact me [![Email](https://img.shields.io/badge/Email-333333?style=flat&logo=minutemailer&logoColor=white)](mailto:ivpenaarenas@gmail.com).
+Open to research collaborations, please contact me [<img src="https://img.icons8.com/ios-glyphs/30/000000/new-post.png" width="20"/>](mailto:ton.adresse@exemple.com)
+
+
+[![Email](https://img.shields.io/badge/Email-333333?style=flat&logo=minutemailer&logoColor=white)](mailto:ivpenaarenas@gmail.com).
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ivpenaarenas@gmail.com).
 
