@@ -1,6 +1,6 @@
 # Ph.D. in Computer Science
 
-I am a researcher with a Ph.D. in Computer Science, focused on mathematical optimization and reinforcement learning models. I build reliable, scalable optimization software and production-ready systems using C, C++, Python, and Java, and I routinely model and solve complex decision problems with industry-grade solvers such as Gurobi, CPLEX, and GAMS.
+I am a researcher with a Ph.D. in Computer Science, focused on mathematical optimization and reinforcement learning models. I build reliable, scalable optimization software and production-ready systems using C, C++, Python, and Java, and I model and solve complex decision problems with industry-grade solvers such as Gurobi, CPLEX, and GAMS.
 
 ## Expertise
 - Mathematical programming (MIP, LP, QP) and model formulation.
