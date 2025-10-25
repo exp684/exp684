@@ -10,5 +10,5 @@ I am a researcher and software engineer with a Ph.D. in Computer Science, focuse
 
 ## Collaboration
 Open to research collaborations, please contact me [![Email](https://img.shields.io/badge/Email-333333?style=flat&logo=minutemailer&logoColor=white)](mailto:ivpenaarenas@gmail.com).
-
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ivpenaarenas@gmail.com).
 
